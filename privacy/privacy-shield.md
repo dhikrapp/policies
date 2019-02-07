@@ -58,7 +58,7 @@ In order to improve our services and the website, and provide more convenient, r
 ## Third Parties
 You understand that Basecamp uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to provide you with our services. A current list of vendors is available upon request.
 
-In cases of onward transfer to these third parties for data of EU, United Kingdom or Swiss individuals received pursuant to the Privacy Shield Frameworks, Basecamp is potentially liable should any issues or concerns arise.
+In cases of onward transfer to these third parties for data of EU, United Kingdom, or Swiss individuals received pursuant to the Privacy Shield Frameworks, Basecamp is potentially liable should any issues or concerns arise.
 
 ## Deleted Data
 When you cancel your account, we'll ensure that nothing is stored on our servers past 30 days. Anything you delete on your account while it's active will also be purged within 30 days (up until then it's available in the trash can).
